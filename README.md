@@ -1,1 +1,1 @@
-# CKA-Verified-Questions-Practice-Test
+Get verified CKA exam questions and practice test
